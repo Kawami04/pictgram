@@ -1,24 +1,13 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+pictgram
+Instagramを参考にした画像投稿アプリになります。
 
-Things you may want to cover:
+今現在出来ることは
+新規登録、ログイン、写真投稿機能です。
 
-* Ruby version
+使い方はカメラボタンを押して好きな画像を選べば投稿出来ます。
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ruby on Rails
+bootstrap
+jQuery
+をフレームワークとして使用しました。
